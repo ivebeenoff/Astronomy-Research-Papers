@@ -1,0 +1,25 @@
+Dormant BH candidates from Gaia DR3 summary diagnostics
+
+Johanna Müller-Horn(1,2), Hans-Walter Rix(1), Kareem El-Badry(3,1),
+Ben Pennell(1,2), Matthew Green(1,4,5), Jiadong Li(1), and Rhys
+Seeburger(1)
+
+This manuscript attempts to indentify possible candidates for dormant
+black holes from Gaia Data Release 3 (DR3), including candidates cut
+from the strict quality cuts subjected to the published Gaia NSS
+catalogue. Outside of one serendipitous lensing observation, all black
+holes discovered in nature exist in binaries. Before 2023, these were
+detected via X-ray emission or GWs. Unfortunately, both of these
+detection methods represent a very rare (<<1%) type of black hole. DR3
+has discovered three black holes through astrometry that capture a
+much more representative black hole sample.
+
+Since the NSS catalogue of published orbital solutions has strict
+quality controls regarding noise and resolution, many potential
+dormant BH features are not present in it. Nevertheless, our lack of
+examples motivates us to individually consider dormant BH not given
+orbital solutions, made possible by the fact that DR3 already offers
+powerful diagnostics for identifying binaries with massive companions
+through summary diagnostics. This paper finds 556 RGB stars that could
+feature BH companions. Spectroscopic follow-up is essential to
+validate the candidates considered in this paper.
