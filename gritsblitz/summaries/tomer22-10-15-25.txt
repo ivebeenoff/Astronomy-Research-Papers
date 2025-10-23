@@ -1,0 +1,67 @@
+An X-ray quiet black hole born with a negligible kick
+in a massive binary within the LMC
+
+Tomer Shenar(1,2), Hugues Sana(1), Laurent Mahy(3,1), Kareem El-Badry(4,5,6),
+Pablo Marchant(1), Norbert Langer(7,8), Calum Hawcroft(1), Matthias Fabry(1),
+Koushik Sen(7,8), Leonardo A. Almeida(9,10), Michael Abdul-Masih(11),
+Julia Bodensteiner(12), Paul A. Crowther(13), Mark Gieles(14,15),
+Mariusz Gromadzki(16), Vincent Hénault-Brunet(17), Artemio Herrero(18,19),
+Alex de Koter(1,2), Patryk Iwanek(16), Szymon Kozłowski(16), Daniel J. Lennon(18,19),
+Jesús Maíz Apellániz(20), Przemysław Mróz(16), Anthony F. J. Moffat(21),
+Annachiara Picco(1), Paweł Pietrukowicz(16), Radosław Poleski(16),
+Krzysztof Rybicki(16,22), Fabian R. N. Schneider(23,24), Dorota M. Skowron(16),
+Jan Skowron(16), Igor Soszyński(16), Michał K. Szymański(16), Silvia Toonen(2),
+Andrzej Udalski(16), Krzysztof Ulaczyk(25), Jorick S. Vink(26), Marcin Wrona(16)
+1 Institute of Astronomy, KU Leuven, Celestijnlaan 200D, 3001 Leuven, Belgium
+2 Anton Pannekoek Institute for Astronomy, Science Park 904, 1098 XH, Amsterdam, The Netherlands
+3 Royal Observatory of Belgium, Avenue circulaire/Ringlaan 3, B-1180 Brussels, Belgium
+4 Center for Astrophysics — Harvard & Smithsonian, 60 Garden Street, Cambridge, MA 02138, USA
+5 Harvard Society of Fellows, 78 Mount Auburn Street, Cambridge, MA 02138
+6 Max-Planck Institute for Astronomy, Königstuhl 17, D-69117 Heidelberg, Germany
+7 Argelander-Institut für Astronomie, Universität Bonn, Auf dem Hügel 71, 53121 Bonn, Germany
+8 Max-Planck-Institut für Radioastronomie, Auf dem Hügel 69, 53121 Bonn, Germany
+9 Escola de Ciências e Tecnologia, Universidade Federal do Rio Grande do Norte, Natal - RN, 59072-970, Brazil
+10 Programa de Pós-graduação em Física, Universidade do Estado do Rio Grande do Norte, Mossoró - RN, 59610-210, Brazil
+11 European Southern Observatory, Alonso de Cordova 3107, Vitacura, Casilla 19001, Santiago de Chile, Chile
+12 European Organisation for Astronomical Research in the Southern Hemisphere (ESO), Karl-Schwarzschild-Str. 2, 85748 Garching, Germany
+13 Department of Physics & Astronomy, Hounsfield Road, University of Sheffield, Sheffield, S3 7RH United Kingdom
+14 ICREA, Pg. Lluís Companys 23, E08010 Barcelona, Spain
+15 Institut de Ciencies del Cosmos (ICCUB), Universitat de Barcelona (IEEC-UB), Martí i Franquès 1, E08028 Barcelona, Spain
+16 Astronomical Observatory, University of Warsaw, Al. Ujazdowskie 4, 00-478 Warszawa, Poland
+17 Department of Astronomy and Physics, Saint Mary’s University, 923 Robie Street, Halifax, NS B3H 3C3, Canada
+18 Instituto de Astrofísica de Canarias,E-38 200 La Laguna, Tenerife, Spain
+19 Dpto. Astrofísica, Universidad de La Laguna, E-38 205 La Laguna, Tenerife, Spain
+20 Centro de Astrobiología, CSIC-INTA, Campus ESAC. C. bajo del castillo s/n, 28692 Villanueva de la Cañada, Madrid, Spain
+21 Dépt. de physique, Univ. de Montréal, QC, H3C 3J7, Canada
+22 Department of Particle Physics and Astrophysics, Weizmann Institute of Science, Rehovot 76100, Israel
+23 Heidelberger Institut für Theoretische Studien, Schloss-Wolfsbrunnenweg 35, 69118 Heidelberg, Germany
+24 Astronomisches Rechen-Institut, Zentrum f¨ur Astronomie der Universität Heidelberg, Mönchhofstr. 12-14, 69120 Heidelberg, Germany
+25 Department of Physics, University of Warwick, Gibbet Hill Road, Coventry, CV4 7AL, UK
+26 Armagh Observatory and Planetarium, College Hill, BT61 9DG, Armagh, Northern Ireland
+
+This is a report on VFTS 243, a massive X-ray faint binary in the
+LMC. It consists of an O-type star of 25 M_sun and an unseen companion
+of >9 M_sun with orbital period 10.4 d. The unseen companion is
+implies to be a black hole. When this paper was published, VFTS 243
+was the only unambiguously known BH outside the Milky Way, allowing
+observations to probe previously unobserved physics, which influences
+the predicted rates of GW detections and overall properties of
+core-collapse supernovae throughout the Universe.
+
+One discovery made from VFTS 243 is its nearly-circular orbit, which
+suggests that the system was not impacted by a significant supernova
+kick. Also, the system is theorized to become a binary BH system
+within 5 Myr, with a merger on the order of 10 - 100 Gyr.
+
+Note that unlike the dozens of examples of refuted X-ray quiescent BH
+binaries that preceded this discovery, VFTS 243 exhibits an ordinary
+O-type spectrum and its characteristics explicitly disallow the
+stripped low mass stars that had caused the previous false alarms.
+
+Special note: This paper includes a 25 M_sun stellar model computed
+with MESA to find the synchronization and circulartization timescales
+run by Pablo Marchant. This is the code I have recreated and am
+currently varying the mass-loss framework for, as I wrote about
+yesterday. (Note that the results are included in Supplementary Figure
+11, which is a bit complicated to explain for a summary, so I would
+encourage you to find the paper on your own).

@@ -1,0 +1,39 @@
+Optically thick winds of very massive stars
+suppress intermediate-mass black hole formation
+Stefano Torniamenti(1,2), Michela Mapelli(2,3,4,5), Lumen Boco(2),
+Filippo Simonato(4,6,7), Giuliano Iorio(8) , Erika Korb(4,2)
+1Max-Planck-Institut für Astronomie, Königstuhl 17, 69117, Heidelberg, Germany
+2Universität Heidelberg, Zentrum für Astronomie (ZAH), Institut für Theoretische Astrophysik, Albert Ueberle Str. 2, 69120,
+Heidelberg, Germany
+3Universität Heidelberg, Interdiszipliäres Zentrum für Wissenschaftliches Rechnen, D-69120 Heidelberg, Germany
+4Dipartimento di Fisica e Astronomia Galileo Galilei, Università di Padova, Vicolo dell’Osservatorio 3, I–35122 Padova, Italy
+5INFN, Sezione di Padova, Via Marzolo 8, I–35131 Padova, Italy
+6Gran Sasso Science Institute (GSSI), Viale Francesco Crispi 7, 67100 L’Aquila, Italy
+7INFN, Laboratori Nazionali del Gran Sasso, 67100 Assergi, Italy
+8Departament de Física Quàntica i Astrofísica, Institut de Ciències del Cosmos, Universitat de Barcelona, Martí i Franquès 1,
+E-08028 Barcelona, Spain
+
+For many years, astronomers had discovered many stellar-mass BHs and
+many SMBHs, but was missing BH in the mass range between the
+two. These intermediate-mass black holes (IMBHs) have only recently
+been evidenced through GWs. One candidate for the source of (IMBHs)
+are very massive stars (VMSs) of mass >100 M_sun. The potency of VMSs
+in creating IMBHs is highly dependent on the mass loss regime it
+experiences. At solar metallicity, VMSs lose a large fraction of their
+mass, so candidates are expected with metallicities (Z ≲ 0.014).
+
+Note that this is very closely related with the paper I wrote about 2
+days ago. This is purely a coincidence — this paper came out on arXiv
+yesterday. However, this is quite nice, as it demonstrates the
+importance of that paper. Anyway...
+
+This paper finds that IMBHs produced from VMSs can only be observed
+under strict metallicity conditions that bar conditions in the LMC and
+even the SMC. The low Z of the SMC may allow for IMBHs to form through
+stellar collitions, but only under the extremely generous assumption
+that the mass of these collisions are fully conserved. Even under such
+optimistic conditions, the predictions offered using these winds are
+1% the previous predictions made using less aggressive winds.
+
+Special note: I've had a beer with Stefano, and he is an Oasis
+fan. What a bum lmao

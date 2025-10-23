@@ -23,3 +23,13 @@ powerful diagnostics for identifying binaries with massive companions
 through summary diagnostics. This paper finds 556 RGB stars that could
 feature BH companions. Spectroscopic follow-up is essential to
 validate the candidates considered in this paper.
+
+Special note: This paper is of particular interest to me, as my PhD
+project deals with the formation of these dormant BHs. Of course, the
+dearth of observational examples (the study of these BHs is but 2
+years old, after all) makes it difficult to accurately model the
+conditions necessary to simulate them, so any information like this is
+quite useful to me. This paper is especially useful, as it points to
+other potential examples that I may need to use in a future paper of
+mine. Also, Johanna (the author) is in Heidelberg too, and I'm almost
+certain I'm gonna end up meeting her at some point in the future.

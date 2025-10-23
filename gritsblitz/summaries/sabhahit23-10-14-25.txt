@@ -1,0 +1,36 @@
+Very massive stars and pair-instability supernovae: mass-loss framework
+for low metallicity
+
+Gautham N. Sabhahit(1), Jorick S. Vink(1), Andreas A. C. Sander(1,2), and Erin R. Higgins(1)
+1 Armagh Observatory and Planetarium, College Hill, Armagh BT61 9DG, N. Ireland
+2 Zentrum für der Universität Heidelberg, Astronomisches Rechen-Institut, M ¨onchhofstr 12-14, D-69120 Heidelberg, Germany
+
+
+Massive stars lose significant percentages of their mass throughout
+their lifetimes through stellar winds. The efficacy of stellar winds
+have been studied in the past, but Vink's previous research found
+issues with using these perscriptions for stars with lower
+metallicity, which is of particular interest when studying late-stage
+phenomena involving compact binaries, such as pair-instability
+supernovae(PISNe) (as this paper mentions), but also X-ray binaries,
+Wolf-Rayet+O-type binaies, GWs, etc. Additionally, very massive stars
+(VMS) (M > 100 M_sun) have stellar winds which are optically
+thick. This paper explores the theoretical framework of these
+optically thick winds.
+
+This paper seeks to accurately describe the mass-loss of O-type stars
+as they transition into Wolf-Rayet stars. It describes the VMS winds
+framework to low metallicity stars, despite a lack of observations. It
+offers in implementation of these winds into MESA. The paper also
+makes several conclustions, including the decoupling of the
+mass-luminosity relation during core H burning and the metallicity
+threshold for PISNe, which it finds to be Z_sun/20. Finally, it
+acknowledges the complexity of rotation physics that present
+complications for current stellar codes.
+
+Special note: I am using these winds to model VFTS 243. Hopefully, I
+can get it to work one of these days.
+
+And no. I am not going to write a special note for all of these. I'll
+probably do the Pablo one tomorrow though, so I guess I will for that
+one.
