@@ -1,0 +1,47 @@
+Rejuvenated accretors have less bound envelopes:
+Impact of Roche lobe overflow on subsequent common envelope events
+M. Renzo(1_, E. Zapartas(2), S. Justham(3,4,5) K. Breivik(1) M. Lau(6,7,1) R. Farmer,5 M. Cantiello,1 and
+B. D. Metzger(8,1)
+
+1Center for Computational Astrophysics, Flatiron Institute, New York, NY 10010, USA
+2IAASARS, National Observatory of Athens, Vas. Pavlou and I. Metaxa, Penteli, 15236, Greece
+3School of Astronomy and Space Science, University of the Chinese Academy of Sciences, Beijing 100012, PR China
+4Anton Pannekoek Institute of Astronomy and GRAPPA, University of Amsterdam, Science Park 904, 1098 XH Amsterdam, The
+Netherlands
+5Max-Planck-Institut für Astrophysik, Karl-Schwarzschild-Straße 1, 85741 Garching, Germany
+6School of Physics and Astronomy, Monash University, Clayton, Victoria 3800, Australia
+7OzGrav: The ARC Centre of Excellence for Gravitational Wave Discovery, Australia
+8Columbia Astrophysics Laboratory, Columbia University, New York, New York 10027, USA
+
+The ultimate fates of compact binaries is dependent on the presence of
+common envelope (CE) evolution. CE describes a dynamically unstable
+mass transfer process that occurs once the radius of an accretor in a
+prior stable Roche-lobe overflow (RLOF) process expands. Note that the
+donor star during RLOF should have already undergone
+core-collapse. During CE, the binary separation decreases
+substantially and allows for a potential merger to occur on a
+timescale conducive to our observations.
+
+During the initial RLOF process, the increased mass of the accretor
+drives an increase in the interior temperature of the star (per the
+Virial Theorem). This effect steepens the mixing region between the
+core and envelope and remixes the convective core, replenishing the
+core's supply of hydrogen and allowing the accretor to continue its
+main sequence evolution for longer. The effects of this core
+rejuvenation may determine if the CE ejection succeeds or fails.
+
+This paper probes the impact of case B (post-MS donor) RLOF on the
+accretor and finds the presents of large blue-loops (check Figure 1)
+that are not expected in single stars. Additionally, accretors exhibit
+a lower binding energy in comparison to single stars, implying CEs
+that are easier to eject, which results in wider binaries post-CE. The
+physics and results of CE are left to other papers. Additionally,
+further research is needed to determine if very massive accretors (M >
+40 M_sun also rejuvenate.
+
+Side note 1: It's me! I'm further research! I happily conclude that
+(according to my models), very massive accretors DO rejuvenate their
+cores. That paper will be out in 2026, but you may or may not be able
+to find my Honors Thesis about it somewhere.
+
+Side note 2: A Mathieu Mathieu
