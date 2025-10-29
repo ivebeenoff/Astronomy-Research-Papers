@@ -42,7 +42,7 @@ Andrzej Udalski(16), Krzysztof Ulaczyk(25), Jorick S. Vink(26), Marcin Wrona(16)
 This is a report on VFTS 243, a massive X-ray faint binary in the
 LMC. It consists of an O-type star of 25 M_sun and an unseen companion
 of >9 M_sun with orbital period 10.4 d. The unseen companion is
-implies to be a black hole. When this paper was published, VFTS 243
+implied to be a black hole. When this paper was published, VFTS 243
 was the only unambiguously known BH outside the Milky Way, allowing
 observations to probe previously unobserved physics, which influences
 the predicted rates of GW detections and overall properties of

@@ -14,7 +14,7 @@ Heidelberg, Germany
 E-08028 Barcelona, Spain
 
 For many years, astronomers had discovered many stellar-mass BHs and
-many SMBHs, but was missing BH in the mass range between the
+many SMBHs, but were missing BH in the mass range between the
 two. These intermediate-mass black holes (IMBHs) have only recently
 been evidenced through GWs. One candidate for the source of (IMBHs)
 are very massive stars (VMSs) of mass >100 M_sun. The potency of VMSs
@@ -30,7 +30,7 @@ importance of that paper. Anyway...
 This paper finds that IMBHs produced from VMSs can only be observed
 under strict metallicity conditions that bar conditions in the LMC and
 even the SMC. The low Z of the SMC may allow for IMBHs to form through
-stellar collitions, but only under the extremely generous assumption
+stellar collisions, but only under the extremely generous assumption
 that the mass of these collisions are fully conserved. Even under such
 optimistic conditions, the predictions offered using these winds are
 1% the previous predictions made using less aggressive winds.

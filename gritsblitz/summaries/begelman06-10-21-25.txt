@@ -1,0 +1,27 @@
+Formation of Supermassive Black Holes by Direct Collapse
+in Pregalactic Halos
+Mitchell C. Begelman(1,2,3), Marta Volonteri(3), and Martin J. Rees(3)
+1 JILA, University of Colorado, Boulder, CO 80309-0440, USA
+2 Department of Astrophysical and Planetary Sciences, University of Colorado at Boulder
+3 Institute of Astronomy, Madingley Road, Cambridge CB3 0HA, UK
+
+At the time of publication (2006), there were many hypotheses
+regarding the growth of supermassive black holes (SMBHs). One of these
+theories involves the collapse of supermassive bodies formed directly
+out of dense gas with low angular momentum possibly caused by
+radiation drag against the CMB at large redshifts. This process can
+drive angular momentum out of gas clouds via torque that causes the
+radius to shrink, further amplifying the process. Eventually, a
+"quasi-star" is formed maintained through radiation pressure.
+
+This quasi-star is expected to have a radius on the order of 1 AU with
+temperatures >10^9 K. At this point, thermal neutrino emission causes
+catastrophic cooling, creating a 10-20 Msun BH in the core of the
+quasistar. It then accretes the surrounding gas at a rate exceeding
+the Eddington limit, eventually producing a BH with M > 10^6
+Msun. This effect may be limited by the presence of a violent
+encounter, mass depletion, or gravitational recoil
+
+
+Special note: Why did I choose to write about a 2006 paper on
+quasi-stars? You will see tomorrow...

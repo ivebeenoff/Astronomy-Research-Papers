@@ -31,7 +31,7 @@ main sequence evolution for longer. The effects of this core
 rejuvenation may determine if the CE ejection succeeds or fails.
 
 This paper probes the impact of case B (post-MS donor) RLOF on the
-accretor and finds the presents of large blue-loops (check Figure 1)
+accretor and finds the presence of large blue-loops (check Figure 1)
 that are not expected in single stars. Additionally, accretors exhibit
 a lower binding energy in comparison to single stars, implying CEs
 that are easier to eject, which results in wider binaries post-CE. The
